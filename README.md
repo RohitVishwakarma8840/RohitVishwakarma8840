@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rohit Vishwakarma</h1>
-<h3 align="center">A passionate Front end from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right"  width="400" src=" https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitvishwakarma8840&label=Profile%20views&color=0e75b6&style=flat" alt="rohitvishwakarma8840" /> </p>
