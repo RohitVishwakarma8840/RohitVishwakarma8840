@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitvishwakarma8840" alt="rohitvishwakarma8840" /></a> </p>
 
-- 🌱 I’m currently learning **MERN,DSA**
+- 🌱 I’m currently learning **Working in MERN Stack Developement **
 
 - 📫 How to reach me **rohit8840185@gmail.com**
 
