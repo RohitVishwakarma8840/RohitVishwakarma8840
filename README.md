@@ -36,5 +36,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rohitvishwakarma8840&theme=dark&hide_border=false)<br/>
 
 
+## 📊 GitHub Stats
+
+![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohitVishwakarma8840&show_icons=true&theme=dark)
+
+
+
 
 
